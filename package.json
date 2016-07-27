@@ -2,7 +2,7 @@
   "name": "generator-android-library-starter",
   "version": "0.0.1",
   "description": "Starter code for creating an android library.",
-  "homepage": "https://github.com/androidstarter/generator-android-library-starter",
+  "homepage": "https://github.com/ravidsrk/generator-android-library-starter",
   "author": {
     "name": "Ravindra Kumar",
     "email": "ravindrakumar8088@gmail.com",
@@ -45,7 +45,7 @@
       "mocha": true
     }
   },
-  "repository": "androidstarter/generator-android-library-starter",
+  "repository": "ravidsrk/generator-android-library-starter",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
