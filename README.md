@@ -25,14 +25,14 @@ yo android-library-starter
 
 ## License
 
-MIT © [Ravindra Kumar](https://github.com/ravidsrk/)
+MIT © [Ravindra Kumar](https://github.com/androidstarters/)
 
 
 [npm-image]: https://badge.fury.io/js/generator-android-library-starter.svg
 [npm-url]: https://npmjs.org/package/generator-android-library-starter
-[travis-image]: https://travis-ci.org/ravidsrk/generator-android-library-starter.svg?branch=master
-[travis-url]: https://travis-ci.org/ravidsrk/generator-android-library-starter
-[daviddm-image]: https://david-dm.org/ravidsrk/generator-android-library-starter.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ravidsrk/generator-android-library-starter
-[coveralls-image]: https://coveralls.io/repos/ravidsrk/generator-android-library-starter/badge.svg
-[coveralls-url]: https://coveralls.io/r/ravidsrk/generator-android-library-starter
+[travis-image]: https://travis-ci.org/androidstarters/generator-android-library-starter.svg?branch=master
+[travis-url]: https://travis-ci.org/androidstarters/generator-android-library-starter
+[daviddm-image]: https://david-dm.org/androidstarters/generator-android-library-starter.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/androidstarters/generator-android-library-starter
+[coveralls-image]: https://coveralls.io/repos/androidstarters/generator-android-library-starter/badge.svg
+[coveralls-url]: https://coveralls.io/r/androidstarters/generator-android-library-starter
